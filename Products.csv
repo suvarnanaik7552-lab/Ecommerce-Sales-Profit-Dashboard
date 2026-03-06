@@ -1,0 +1,36 @@
+ProductID,ProductName,Category,CostPrice,SellingPrice
+101,Laptop Pro 14,Electronics,45000,58000
+102,Smartphone X,Electronics,18000,25000
+103,Tablet Plus,Electronics,12000,16500
+104,Bluetooth Speaker,Electronics,1500,2800
+105,Wireless Earbuds,Electronics,1200,2500
+106,Smart Watch,Electronics,2200,4500
+107,Gaming Mouse,Electronics,600,1500
+108,"LED Monitor 24""",Electronics,7000,11000
+109,Men’s T-Shirt,Fashion,300,799
+110,Women’s Jeans,Fashion,700,1599
+111,Running Shoes,Fashion,1200,2999
+112,Jacket,Fashion,1500,3499
+113,Handbag,Fashion,900,2199
+114,Sunglasses,Fashion,400,1299
+115,Office Chair, Home Appliances,2500,5500
+116,Study Table, Home Appliances,3000,7200
+117,Bed Sheet Set, Home Appliances,500,1299
+118,Kitchen Mixer, Home Appliances,1800,3999
+119,Electric Kettle, Home Appliances,700,1699
+120,Wall Clock, Home Appliances,300,899
+121,Backpack,Accessories,500,1299
+122,Wallet,Accessories,250,799
+123,Travel Bag,Accessories,900,2299
+124,Belt,Accessories,150,499
+125,Cap,Accessories,100,399
+126,Coffee Maker,Appliances,2000,4800
+127,Air Fryer,Appliances,3500,7999
+128,Vacuum Cleaner,Appliances,3000,6999
+129,Hair Dryer,Appliances,600,1499
+130,Iron Box,Appliances,500,1299
+131,Notebook Pack,Stationery,100,299
+132,Pen Set,Stationery,80,249
+133,Office Organizer,Stationery,200,599
+134,Desk Lamp,Stationery,350,999
+135,Calculator,Stationery,150,499

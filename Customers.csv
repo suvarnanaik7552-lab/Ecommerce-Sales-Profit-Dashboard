@@ -1,0 +1,201 @@
+CustomeeID,CustomerName,City,SignupDate
+1,Abhinav,Bangalore,2023-01-01
+2,Aradhana,Mumbai,2023-01-02
+3,Nilesh,Chennai,2023-01-03
+4,Swapna,Hyderabad,2023-01-04
+5,Darshan,Mysore,2023-01-05
+6,Dharani,Karwar,2023-01-06
+7,Mouna,Belgum,2023-01-07
+8,Janaki Rama,Honnavar,2023-01-08
+9,Ramakanta,Uttarakannada,2023-01-09
+10,Jagadeesh,Raichur,2023-01-10
+11,Eshwaran,Uttarapradesh,2023-01-11
+12,Tanuja K,Jarkand,2023-01-12
+13,H P Anusha,Hariyana,2023-01-13
+14,Anusha,Dehali,2023-01-14
+15,Pawana Kamath,Maharastra,2023-01-15
+16,Pallabi Acharya,Gulbarga,2023-01-16
+17,Netravati,Ramnagar,2023-01-17
+18,Bhavini P,Bangalore,2023-01-18
+19,Leo,Mumbai,2023-01-19
+20,Shadow,Chennai,2023-01-20
+21,Devid Jeams,Hyderabad,2023-01-21
+22,Mahamad Asif,Mysore,2023-01-22
+23,Mastan,Karwar,2023-01-23
+24,Ribira ,Belgum,2023-01-24
+25,Fareena,Honnavar,2023-01-25
+26, Abdul,Uttarakannada,2023-01-26
+27,Mahi Mahendra,Raichur,2023-01-27
+28,Bharath,Uttarapradesh,2023-01-28
+29,Nilakanta,Jarkand,2023-01-29
+30,Gangadhar T,Hariyana,2023-01-30
+31,Jayanth Aradhana,Dehali,2023-01-31
+32,Kavana M,Maharastra,2023-02-01
+33,Lalita P K,Gulbarga,2023-02-02
+34,Renita Lopes,Ramnagar,2023-02-03
+35,Riya,Bangalore,2023-02-04
+36,Uday N,Mumbai,2023-02-05
+37,Chaitra,Chennai,2023-02-06
+38,Yaduveer ,Hyderabad,2023-02-07
+39,Rohan Aras,Mysore,2023-02-08
+40,Roshan,Karwar,2023-02-09
+41,Madana Gowda,Belgum,2023-02-10
+42,Masti,Honnavar,2023-02-11
+43,Lata,Uttarakannada,2023-02-12
+44,Ravi,Raichur,2023-02-13
+45,Wafa,Uttarapradesh,2023-02-14
+46,Swandana,Jarkand,2023-02-15
+47,Varun S,Hariyana,2023-02-16
+48,Shourya Suvarna,Dehali,2023-02-17
+49,Sahana,Maharastra,2023-02-18
+50,Bhagya,Gulbarga,2023-02-19
+51,Zuber,Ramnagar,2023-02-20
+52,Pavitra,Bangalore,2023-02-21
+53,Dharma,Mumbai,2023-02-22
+54,Hamsa,Chennai,2023-02-23
+55,Varun Aradhya,Hyderabad,2023-02-24
+56,Sameer,Mysore,2023-02-25
+57,Simran,Karwar,2023-02-26
+58,Chiru,Belgum,2023-02-27
+59,Hanisha,Honnavar,2023-02-28
+60,Himanshu,Uttarakannada,2023-03-01
+61,Vignesh,Raichur,2023-03-02
+62,Ninadh,Uttarapradesh,2023-03-03
+63,Surya,Jarkand,2023-03-04
+64,Meena,Hariyana,2023-03-05
+65,Bhoomi Ajeeth,Dehali,2023-03-06
+66,Ajeeth Ram Narayan,Maharastra,2023-03-07
+67,Satya,Gulbarga,2023-03-08
+68,Sangeeta,Ramnagar,2023-03-09
+69,Pallavi,Bangalore,2023-03-10
+70,Shanti,Mumbai,2023-03-11
+71,Ranganatha,Chennai,2023-03-12
+72,Meena,Hyderabad,2023-03-13
+73,Ragvendra,Mysore,2023-03-14
+74,Jyoti,Karwar,2023-03-15
+75,Ganesh,Belgum,2023-03-16
+76,Ravi,Honnavar,2023-03-17
+77,Manoj,Uttarakannada,2023-03-18
+78,Kalyani,Raichur,2023-03-19
+79,Tulasi,Uttarapradesh,2023-03-20
+80,Shabhari,Jarkand,2023-03-21
+81,Aryan K,Hariyana,2023-03-22
+82,Chadrashekara,Dehali,2023-03-23
+83,Arun,Maharastra,2023-03-24
+84,Kiran,Gulbarga,2023-03-25
+85,Riya,Ramnagar,2023-03-26
+86,Sampath,Bangalore,2023-03-27
+87,Sanjana,Mumbai,2023-03-28
+88,Kavana M,Chennai,2023-03-29
+89,Keshav,Hyderabad,2023-03-30
+90,Bhargavi B,Mysore,2023-03-31
+91,Sahana,Karwar,2023-04-01
+92,Rashi,Belgum,2023-04-02
+93,Nilambari,Honnavar,2023-04-03
+94,Mukta,Uttarakannada,2023-04-04
+95,Prema,Raichur,2023-04-05
+96,Nagaratna,Uttarapradesh,2023-04-06
+97,Malini,Jarkand,2023-04-07
+98,Bharati,Hariyana,2023-04-08
+99,Dhayanada,Dehali,2023-04-09
+100,Divya,Maharastra,2023-04-10
+101,Dinakara,Gulbarga,2023-04-11
+102,Nikita,Ramnagar,2023-04-12
+103,Nitesh,Uttarapradesh,2023-04-13
+104,Harsha,Jarkand,2023-04-14
+105,Pavitra,Hariyana,2023-04-15
+106,Raksha,Dehali,2023-04-16
+107,Naveen,Maharastra,2023-04-17
+108,Madev,Gulbarga,2023-04-18
+109,Nagu,Ramnagar,2023-04-19
+110,Parvati,Uttarapradesh,2023-04-20
+111,Aryan,Jarkand,2023-04-21
+112,Arpita,Hariyana,2023-04-22
+113,Ganesh,Dehali,2023-04-23
+114,Dhikshan,Maharastra,2023-04-24
+115,Pavan,Gulbarga,2023-04-25
+116,Pooja Ganesh Naik,Ramnagar,2023-04-26
+117,Ramya  Gopal Naik,Dehali,2023-04-27
+118,Navya Shanbag,Maharastra,2023-04-28
+119,Bhuvi Y.R,Gulbarga,2023-04-29
+120,Riya Lopes,Ramnagar,2023-04-30
+121,Sandhya Shet,Uttarapradesh,2023-05-01
+122,Sangeeta,Jarkand,2023-05-02
+123,Sanketa,Hariyana,2023-05-03
+124,Shilpa Shet,Dehali,2023-05-04
+125,Aishwarya Shet,Maharastra,2023-05-05
+126,Charulata,Gulbarga,2023-05-06
+127,Lata,Ramnagar,2023-05-07
+128,Kavana,Bangalore,2023-05-08
+129,Lata,Mumbai,2023-05-09
+130,Naveen,Chennai,2023-05-10
+131,Pavitra,Ramnagar,2023-05-11
+132,Harsha,Uttarapradesh,2023-05-12
+133,Bhavani,Jarkand,2023-05-13
+134,Pooja Ganesh Naik,Hariyana,2023-05-14
+135,Ramya  Gopal Naik,Dehali,2023-05-15
+136,Sangeeta,Maharastra,2023-05-16
+137,Pavan,Gulbarga,2023-05-17
+138,Navya Shanbag,Bangalore,2023-05-18
+139,Tulasi,Mumbai,2023-05-19
+140,Kalyani,Chennai,2023-05-20
+141,Surya,Hyderabad,2023-05-21
+142,Shourya Suvarna,Mysore,2023-05-22
+143,Shourya Suvarna,Karwar,2023-05-23
+144,Lata,Belgum,2023-05-24
+145,Lata,Bangalore,2023-05-25
+146,Lata,Mumbai,2023-05-26
+147,Lata,Chennai,2023-05-27
+148,Kiran,Hyderabad,2023-05-28
+149,Kiran,Mysore,2023-05-29
+150,Riya Lopes,Karwar,2023-05-30
+151,Charulata,Belgum,2023-05-31
+152,Lata,Bangalore,2023-06-01
+153,Kiran,Mumbai,2023-06-02
+154,Lata,Chennai,2023-06-03
+155,Kiran,Hyderabad,2023-06-04
+156,Abhinav,Mysore,2023-06-05
+157,Abhinav,Karwar,2023-06-06
+158,Aradhana,Belgum,2023-06-07
+159,Ayan,Hyderabad,2023-06-08
+160,Nitesh,Mysore,2023-06-09
+161,Nilesh,Karwar,2023-06-10
+162,Madavan,Belgum,2023-06-11
+163,Murugesh,Bangalore,2023-06-12
+164,Pragati,Mumbai,2023-06-13
+165,Yateen,Chennai,2023-06-14
+166,Ravi Kumar,Hyderabad,2023-06-15
+167,Tarun,Mysore,2023-06-16
+168,Bhargavi B,Karwar,2023-06-17
+169,Mahanasa,Belgum,2023-06-18
+170,Kalesh,Bangalore,2023-06-19
+171,Yadesh,Mumbai,2023-06-20
+172,Himanshu,Chennai,2023-06-21
+173,Wafa,Bangalore,2023-06-22
+174,Vaishaka,Bangalore,2023-06-23
+175,Amulya,Bangalore,2023-06-24
+176,Anupama,Bangalore,2023-06-25
+177,Jaya Jagadeesh,Bangalore,2023-06-26
+178,Dinakara,Bangalore,2023-06-27
+179,Vijayalaxmi Darshan,Hyderabad,2023-06-28
+180,Dhanveer,Hyderabad,2023-06-29
+181,Gowri,Hyderabad,2023-06-30
+182,Radha,Uttarapradesh,2023-07-01
+183,Laxmi,Uttarapradesh,2023-07-02
+184,Radha,Uttarakannada,2023-07-03
+185,Namruta,Uttarakannada,2023-07-04
+186,Nandi,Bangalore,2023-07-05
+187,Apsa,Bangalore,2023-07-06
+188,Gajanana,Bangalore,2023-07-07
+189,Hemanth,Bangalore,2023-07-08
+190,Mamata,Bangalore,2023-07-09
+191,Anand,Bangalore,2023-07-10
+192,Mamata,Hyderabad,2023-07-11
+193,Preksha,Hyderabad,2023-07-12
+194,Shreedhar,Hyderabad,2023-07-13
+195,Ankita,Uttarapradesh,2023-07-14
+196,Janaki,Uttarapradesh,2023-07-15
+197,Ramya  Gopal Naik,Uttarakannada,2023-07-16
+198,Ram,Uttarakannada,2023-07-17
+199,Hari,Bangalore,2023-07-18
+200,Nirmala,Belgum,2023-07-19
